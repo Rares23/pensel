@@ -5,7 +5,7 @@
 	</head>
 	<body>
 		<div>
-			<a href="adm/index.php?id=1">Go to admin</a>
+			<a href="adm/index.php">Go to admin</a>
 		</div>
 	</body>
 </html>
